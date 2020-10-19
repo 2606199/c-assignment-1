@@ -1,0 +1,3 @@
+Inheritance allows the developers to create  a subclass that can reuse code that is declared in a superclass. Being able to avoid  the duplication of a 
+common function of several classes by building off of a class inheritance can save time. Also by placing  a common function in a single superclass can help
+prevent duplication errors in a code.
